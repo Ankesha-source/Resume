@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## ANKEKSHA IDNANI
 
-You can use the [editor on GitHub](https://github.com/Ankesha-source/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dedicated Technical information developer with experience in different industries and areas, skilled in planning, conceptualizing, and developing documentation and learning materials, while working closely with managers, executives, professionals, and training team members to design top notch Technical materials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Highlights
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ankesha-source/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+•	10 years of experience in managing documentation and eLearning projects .
+•	Consulting with business stakeholders on the best learning technology solutions to meet their business requirements for bridging a performance gap or solving a business problem. 
+•	Planning and executing L&D roadmap for the business that helps the business scale and grow.
+•	Monitoring and updating global standards and processes for training and documentation.
+•	Managing and coaching diverse teams to create various learning materials.
+•	Conducting needs analysis with customers to create program and content design.
+•	Prioritizing, scheduling, and meeting deadlines.
